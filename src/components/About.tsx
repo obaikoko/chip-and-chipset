@@ -27,7 +27,7 @@ export default function About() {
             </h2>
 
             <p className="font-body text-[#8888AA] text-lg leading-relaxed mb-6">
-              Chips & Chipset is a premier technology store located in the heart of Hart Plaza,
+              Chips & Chipset is a premier technology store located in the heart of Heart Plaza,
               Maraba Market. We've built our reputation on delivering quality tech products and
               expert services at prices that work for everyone.
             </p>

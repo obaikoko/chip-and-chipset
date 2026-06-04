@@ -40,7 +40,7 @@ export default function Navbar() {
           </div>
           <div>
             <div className="font-display text-xl text-white leading-none tracking-wide">CHIPS & CHIPSET</div>
-            <div className="font-mono text-[9px] text-[#FF6B2B] tracking-[0.2em] uppercase">Tech Solutions Hub</div>
+            <div className="font-mono text-[9px] text-[#FF6B2B] tracking-[0.2em] uppercase">Technologies</div>
           </div>
         </a>
 

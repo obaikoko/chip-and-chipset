@@ -97,7 +97,7 @@ export default function Hero() {
           className="font-mono text-[10px] text-[#FF6B2B]/50 tracking-[0.3em] uppercase"
           style={{ writingMode: 'vertical-rl' }}
         >
-          Est. Since 2024
+          Est. Since 2020
         </span>
         <div className="w-px h-20 bg-gradient-to-t from-transparent to-[#FF6B2B]" />
       </div>
@@ -109,7 +109,7 @@ export default function Hero() {
           <div className="inline-flex items-center gap-2 bg-[#1A1A24] border border-[#FF6B2B]/30 rounded-full px-4 py-1.5 mb-8">
             <div className="w-2 h-2 bg-[#FF6B2B] rounded-full animate-pulse" />
             <span className="font-mono text-xs text-[#FF6B2B] tracking-widest uppercase">
-              Hart Plaza · Maraba Market
+              Heart Plaza · Maraba Market
             </span>
           </div>
 
